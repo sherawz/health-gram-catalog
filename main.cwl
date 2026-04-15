@@ -1,5 +1,6 @@
 requirements:
   MultipleInputFeatureRequirement: {}
+  SubworkflowFeatureRequirement: {}
 cwlVersion: v1.2
 class: Workflow
 
