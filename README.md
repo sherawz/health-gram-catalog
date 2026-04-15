@@ -8,7 +8,7 @@ The catalog is divided into four sections, each managed by dedicated teams worki
 * [**Tools and materials**](tools_materials/README.md)
 * [**Literature**](literature/README.md)
 
-Additionally, the [**Health Gram Explorer**](health-gram-explorer/README.md) is building a stand-alone, interactive health gram catalog metadata explorer that runs from your web-browser. 
+Additionally, the [**Health Gram Explorer**](health-gram-explorer/README.md) team is building a stand-alone, interactive health gram catalog metadata explorer that runs from your web-browser. 
 
 Released editions of the (possibly abbreviated) catalog will be publicly available at Zenodo.  Full versions of the catalog will be available via health grams obtained from the Personal Genome Project informatics (PGPi) initiative.    
 
